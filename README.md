@@ -1,4 +1,4 @@
-# Vitis 工程版本管理指南
+# Version Control Hands-on in Vitis Unified IDE
 
 本工程使用 Git 管理 Vitis workspace，并通过脚本在新路径下自动重建可生成内容。
 
